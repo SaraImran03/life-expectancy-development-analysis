@@ -18,8 +18,6 @@ health-development-ml/
 │   ├── life_expectancy_imputation.py      # Feature imputation + life expectancy prediction
 │   ├── economic_classification.py         # Single, polynomial, and multiple feature classification
 │   └── economic_imputation_classification.py # Feature imputation + development status classification
-├── output/                                # Subdirectory for generated evaluation figures
-├── .gitignore                             # Specifies files ignored by git (e.g., raw PDFs, cache)
 ├── requirements.txt                       # Package dependencies
 └── README.md                              # Main documentation (this file)
 ```
